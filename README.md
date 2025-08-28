@@ -58,8 +58,11 @@ This project integrates **Blockchain technology** and **Federated Learning (FL)*
 ---
 
 ## 📂 Repository Structure  
+## 📂 Repository Structure  
 
-├── blockchain_federated_fast_api # FL + Blockchain with FastAPI
-├── blockchain_federated_flwr # FL + Blockchain with Flower
-├── Project_Report.pdf # Detailed report
-└── README.md # Project documentation
+```text
+├── blockchain_federated_fast_api   # FL + Blockchain with FastAPI
+├── blockchain_federated_flwr       # FL + Blockchain with Flower
+├── Project_Report.pdf              # Detailed report
+└── README.md                       # Project documentation
+
